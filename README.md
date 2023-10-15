@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Classic car selling website](https://github.com/KevinGida/classic-car)
 
-- 📫 Contact me through LinkedIn **https://www.linkedin.com/in/kevin-gida/**
+- 📫 Contact me through [LinkedIn] (https://www.linkedin.com/in/kevin-gida/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
