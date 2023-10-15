@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevingida" alt="kevingida" /></a> </p>
 
 - 🔭 I’m currently working on:
-   [Classic car selling website](https://github.com/KevinGida/classic-car)
+   <p>[Classic car selling website](https://github.com/KevinGida/classic-car) - A website for selling classic car and a dashboard for admin to manage database.</p>
 
 - 📫 Contact me through [LinkedIn](https://www.linkedin.com/in/kevin-gida/)
 
