@@ -79,4 +79,5 @@
 
 
 <h3 align="left">Hacktoberfest:</h3>
+<img src="https://holopin.io/@kevingida" />
 [![An image of @kevingida's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kevingida)
