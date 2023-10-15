@@ -15,4 +15,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevingida&show_icons=true&locale=en" alt="kevingida" /></p>
 
 <h3 align="left">Hactoberfest:</h3>
+
 [![An image of @kevingida's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kevingida)](https://holopin.io/@kevingida)
