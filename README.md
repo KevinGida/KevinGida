@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Gida</h1>
-<h3 align="center">A full stack developer in training</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevingida" alt="kevingida" /></a> </p>
+<h3 align="left">A full stack developer in training</h3>
 
 <h3 align="left">Current Project:</h3>
    Classic car selling website](https://github.com/KevinGida/classic-car) - A website for selling classic car and a dashboard for admin to manage database.
