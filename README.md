@@ -34,19 +34,17 @@
   </a>
 </p>
 
-
-<h3 align="left">Contact me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/kevin-gida/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
-
-
-<h3 align="left">Stats:</h3>
+## Stats
 <a href="https://github.com/kevingida/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kevingida&show_icons=true&theme=gruvbox" />
 </a>
 <a href="https://github.com/kevingida/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevingida&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=gruvbox" />
 </a>
+
+## Contact Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/kevin-gida/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
