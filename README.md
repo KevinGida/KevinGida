@@ -2,7 +2,9 @@
 <h3 align="left">A full stack developer in training</h3>
 
 <h3 align="left">Current Project:</h3>
-- [Classic car selling website](https://github.com/KevinGida/classic-car) - A website for selling classic car and a dashboard for admin to manage database.
+
+- [Classic car selling website](https://ccdealer.vercel.app/) - A website for selling classic car and a dashboard for admin to manage database.
+- [Figure Forge](https://figure-forge-shop.vercel.app/) - A SALT final project with [Typo Titans](https://github.com/TypoTitans) , A second hand figure selling website with admin dashboard, cart and payment feature using Stripe. 
 
 <h3 align="left">Languages:</h3>
 <p align="left">
